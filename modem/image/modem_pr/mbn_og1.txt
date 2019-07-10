@@ -1,0 +1,5 @@
+mcfg_sw/generic/e7/global/row/mcfg_sw.mbn
+mcfg_sw/generic/e7/global/megafon/mcfg_sw.mbn
+mcfg_sw/generic/e7/global/plus/mcfg_sw.mbn
+mcfg_sw/generic/e7/global/tim/mcfg_sw.mbn
+mcfg_sw/generic/e7/global/hwinfo/mcfg_sw.mbn

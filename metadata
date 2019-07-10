@@ -1,0 +1,5 @@
+ota-required-cache=0
+ota-type=BLOCK
+post-build=xiaomi/vince/vince:8.1.0/OPM1.171019.019/V10.2.3.0.OEGMIXM:user/release-keys
+post-timestamp=1561983430
+pre-device=vince
